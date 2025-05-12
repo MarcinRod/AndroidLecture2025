@@ -176,4 +176,4 @@ W tym przykładzie:
 
 ---
 
-### 🧭 **Następny temat:** [Bazy danych - Room](11%20Bazy%20danych%20-%20Room.md)
+### 🧭 **Następny temat:** [Bazy danych - Room](https://github.com/MarcinRod/AndroidLecture2025/blob/main/11%20Bazy%20danych%20-%20Room.md)

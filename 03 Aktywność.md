@@ -174,4 +174,4 @@ val context = LocalContext.current
 - [Jetpack Compose – dostęp do Context](https://developer.android.com/jetpack/compose/side-effects#context)
 
 ---
-### 🧭 **Następny temat:** [Zasoby aplikacji](4%20Zasoby.md)
+### 🧭 **Następny temat:** [Zasoby aplikacji](https://github.com/MarcinRod/AndroidLecture2025/blob/main/04%20Zasoby.md)

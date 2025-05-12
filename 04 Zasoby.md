@@ -142,4 +142,4 @@ Np. jeśli użytkownik ma ustawiony język polski, system użyje `strings.xml` z
 - [Jetpack Compose – Resources](https://developer.android.com/jetpack/compose/resources)
 
 ---
-### 🧭 **Następny temat:** [Funkcje kompozycyjne](5%20Funkcje%20kompozycyjne.md)
+### 🧭 **Następny temat:** [Funkcje kompozycyjne](https://github.com/MarcinRod/AndroidLecture2025/blob/main/05%20Funkcje%20kompozycyjne.md)

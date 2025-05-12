@@ -417,4 +417,4 @@ Navigation Compose to nowoczesny i zalecany sposób obsługi nawigacji w aplikac
 Navigation Compose to nowoczesny i zalecany sposób obsługi nawigacji w aplikacjach Jetpack Compose.
 
 ---
-### 🧭 **Następny temat:** [Intencje](7%20Intencje.md)
+### 🧭 **Następny temat:** [Intencje](https://github.com/MarcinRod/AndroidLecture2025/blob/main/07%20Intencje.md)

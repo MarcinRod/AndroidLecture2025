@@ -602,4 +602,4 @@ dependencies {
 ✅ **Sprawdź oficjalną dokumentację** [Android Studio](https://developer.android.com/studio) i [Gradle](https://docs.gradle.org/current/userguide/userguide.html).
 
 
-### 🧭 **Następny temat:** [Koncepcję aktywności i jej cykl życia](3%20Aktywność.md)
+### 🧭 **Następny temat:** [Koncepcję aktywności i jej cykl życia](https://github.com/MarcinRod/AndroidLecture2025/blob/main/03%20Aktywność.md)

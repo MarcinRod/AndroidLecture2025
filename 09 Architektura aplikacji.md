@@ -283,4 +283,4 @@ Takie podejście pozwala w prosty sposób obsłużyć różne scenariusze w UI i
 - [Przykładowy projekt Compose: Now in Android](https://github.com/android/nowinandroid)
 
 ---
-### 🧭 **Następny temat:** [Praca w tle: Korutyny](10%20Zadania%20w%20tle%20-%20Korutyny.md)
+### 🧭 **Następny temat:** [Praca w tle: Korutyny](https://github.com/MarcinRod/AndroidLecture2025/blob/main/10%20Zadania%20w%20tle%20-%20Korutyny.md)

@@ -165,4 +165,4 @@ Button(onClick = { navController.navigate("szczegoly/123") }) {
 - **Navigation Compose** obsługuje nawigację między ekranami w ramach jednej aktywności.
 - W nowoczesnych aplikacjach Compose oba mechanizmy często współistnieją: Navigation Compose do nawigacji wewnętrznej, intencje do komunikacji z systemem i innymi aplikacjami.
 ---
-### 🧭 **Następny temat:** [Manifest i pozwolenia](8%20Manifest%20i%20pozwolenia.md)
+### 🧭 **Następny temat:** [Manifest i pozwolenia](https://github.com/MarcinRod/AndroidLecture2025/blob/main/08%20Manifest%20i%20pozwolenia.md)

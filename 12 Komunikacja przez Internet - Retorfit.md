@@ -297,4 +297,4 @@ class ProduktyViewModel(private val api: ApiService) : ViewModel() {
 
 ---
 
-### 🧭 **Następny temat:** [Platforma Firebase](13%20Platforma%20Firebase.md)
+### 🧭 **Następny temat:** [Platforma Firebase](https://github.com/MarcinRod/AndroidLecture2025/blob/main/13%20Platforma%20Firebase.md)

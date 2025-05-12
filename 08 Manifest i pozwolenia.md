@@ -112,4 +112,4 @@ launcher.launch(arrayOf(
 - [Permissions overview – Android Developers](https://developer.android.com/guide/topics/permissions/overview)
 - [Request app permissions – Android Developers](https://developer.android.com/training/permissions/requesting)
 ---
-### 🧭 **Następny temat:** [Architetura aplikacji](9%20Architektura%20aplikacji.md)
+### 🧭 **Następny temat:** [Architetura aplikacji](https://github.com/MarcinRod/AndroidLecture2025/blob/main/09%20Architektura%20aplikacji.md)

@@ -234,4 +234,4 @@ val produktyFlow: Flow<List<Produkt>> = produktDao.observeAll()
 
 ---
 
-### 🧭 **Następny temat:** [Komunikacja przez Internet - Retrofit](12%20Komunikacja%20przez%20Internet%20-%20Retorfit.md)
+### 🧭 **Następny temat:** [Komunikacja przez Internet - Retrofit](https://github.com/MarcinRod/AndroidLecture2025/blob/main/12%20Komunikacja%20przez%20Internet%20-%20Retorfit.md)
