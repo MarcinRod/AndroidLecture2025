@@ -653,4 +653,4 @@ Funkcje i właściwości rozszerzające (extension functions, extension properti
 - [Kotlin for Android Developers](https://developer.android.com/kotlin)
 - [Podstawy Kotlin na Android Developers](https://developer.android.com/kotlin/learn)
 ---
-### 🧭 **Następny temat:** [Android Studio](https://github.com/MarcinRod/AndroidLecture2025/blob/main/https://github.com/MarcinRod/AndroidLecture2025/blob/main/02%20Android%20Studio.md)
+### 🧭 **Następny temat:** [Android Studio](https://github.com/MarcinRod/AndroidLecture2025/blob/main/02%20Android%20Studio.md)
