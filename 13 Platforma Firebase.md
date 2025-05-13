@@ -383,3 +383,5 @@ val produkt = snapshot.getValue(Produkt::class.java)
 - [Przykłady i przewodniki](https://firebase.google.com/docs)
 
 ---
+
+### 🧭 **Powrót do głównej strony:** [Start](https://github.com/MarcinRod/AndroidLecture2025/tree/main)
